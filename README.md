@@ -60,7 +60,7 @@ Create a search index as below.
           "type": "vector",
           "path": "text_embedding",
           "numDimensions": 1536,
-          "similarity": "cosine",
+          "similarity": "cosine"
         }
       ]
     }
